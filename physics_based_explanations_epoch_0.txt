@@ -1,0 +1,88 @@
+=== Epoch 0 - Physics-Based Diagnostic Explanations ===
+
+Sample 1:
+🏭 **Nuclear Safety Alert: Cold Leg LOCA Confirmed**
+
+**System Response:** System stable
+
+**Physical Principles:** Conservation of mass violation detected
+
+**Recommended Protocol:** Initiate emergency core cooling; Isolate affected loop; Monitor containment pressure; Continue monitoring and gather more data
+====================================================================================================
+
+Sample 2:
+🔍 **Physics-Based Diagnosis: Cold Leg LOCA**
+
+**Physical Evidence:** Normal physical relationships maintained
+
+**Parameter Analysis:** Pressure trend: Stable (-0.001/step), Flow: Stable (-0.001/step)
+
+**Safety Implications:** Core uncover potential if not mitigated
+
+**Confidence Level:** 51% - Requires Verification
+====================================================================================================
+
+Sample 3:
+🔍 **Physics-Based Diagnosis: Cold Leg LOCA**
+
+**Physical Evidence:** Mass imbalance detected: 0.245
+
+**Parameter Analysis:** Pressure trend: Moderate decreasing trend (-0.006/step), Flow: Stable (-0.005/step)
+
+**Safety Implications:** Core uncover potential if not mitigated
+
+**Confidence Level:** 51% - Requires Verification
+====================================================================================================
+
+Sample 4:
+🏭 **Nuclear Safety Alert: Cold Leg LOCA Confirmed**
+
+**System Response:** System stable
+
+**Physical Principles:** Conservation of mass violation detected
+
+**Recommended Protocol:** Initiate emergency core cooling; Isolate affected loop; Monitor containment pressure; Continue monitoring and gather more data
+====================================================================================================
+
+Sample 5:
+🏭 **Nuclear Safety Alert: Cold Leg LOCA Confirmed**
+
+**System Response:** System stable
+
+**Physical Principles:** Conservation of mass violation detected
+
+**Recommended Protocol:** Initiate emergency core cooling; Isolate affected loop; Monitor containment pressure; Continue monitoring and gather more data
+====================================================================================================
+
+Sample 6:
+🔍 **Physics-Based Diagnosis: Cold Leg LOCA**
+
+**Physical Evidence:** Mass imbalance detected: 0.283
+
+**Parameter Analysis:** Pressure trend: Stable (-0.004/step), Flow: Stable (-0.005/step)
+
+**Safety Implications:** Core uncover potential if not mitigated
+
+**Confidence Level:** 51% - Requires Verification
+====================================================================================================
+
+Sample 7:
+🏭 **Nuclear Safety Alert: Cold Leg LOCA Confirmed**
+
+**System Response:** System stable
+
+**Physical Principles:** Conservation of mass violation detected
+
+**Recommended Protocol:** Initiate emergency core cooling; Isolate affected loop; Monitor containment pressure; Continue monitoring and gather more data
+====================================================================================================
+
+Sample 8:
+🏭 **Nuclear Safety Alert: Cold Leg LOCA Confirmed**
+
+**System Response:** System stable
+
+**Physical Principles:** Conservation of mass violation detected
+
+**Recommended Protocol:** Initiate emergency core cooling; Isolate affected loop; Monitor containment pressure; Continue monitoring and gather more data
+====================================================================================================
+
